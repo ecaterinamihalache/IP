@@ -1,0 +1,112 @@
+C:\Users\ichim\Desktop\AC\cti3_sem2\ip\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\cti3_sem2\ip\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\cti3_sem2\ip\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\cti3_sem2\ip\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\cti3_sem2\ip\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\cti3_sem2\ip\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\an III\IP\Proiect\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+E:\Anul3_Sem_II\Proiect_IP\bun\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\Proiect_IP_18mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final2\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csprojAssemblyReference.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CopyComplete
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.AssemblyReference.cache
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.dll
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Procesare.pdb
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.dll
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\bin\Debug\Newtonsoft.Json.xml
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.AssemblyReference.cache
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Processing.csproj.CoreCompileInputs.cache
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.dll
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\Procesare\obj\Debug\Procesare.pdb

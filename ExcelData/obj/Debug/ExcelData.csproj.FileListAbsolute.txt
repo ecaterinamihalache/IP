@@ -1,0 +1,36 @@
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.pdb
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csprojAssemblyReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.ResolveComReference.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.CoreCompileInputs.cache
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.dll
+C:\Users\ichim\Desktop\AC\Proiect_IP\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.pdb
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.dll
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.pdb
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.dll
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.pdb
+D:\Facultate\an III\IP\Proiect\final_2\version-final1\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.CoreCompileInputs.cache
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.dll
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.pdb
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csprojAssemblyReference.cache
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.CoreCompileInputs.cache
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.dll
+D:\FACULTATE\IP\Proiect\version-final4_HelpBun\version-final4\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csprojAssemblyReference.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.CoreCompileInputs.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final5\Proiect_IP_20mai\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.pdb
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.AssemblyReference.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.CoreCompileInputs.cache
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.dll
+E:\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.pdb
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.dll
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\bin\Debug\ExcelData.pdb
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.AssemblyReference.cache
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.csproj.CoreCompileInputs.cache
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.dll
+F:\tot\Nicoleta\DeToate\PartitiaE_laptopNico\Anul3_Sem_II\Proiect_IP\version-final-final\Proiect_IP\Dictionar-Proiect\ExcelData\obj\Debug\ExcelData.pdb
